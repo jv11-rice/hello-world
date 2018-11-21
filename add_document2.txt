@@ -1,3 +1,4 @@
 1. updating source to test fork sync.
 2. changing file to see how merges work.
+3a. version a of update meant to cause conflict.
 3b. version b of file update made to cause conflict.
